@@ -1,0 +1,16 @@
+       Ejemplo #1 - Problema donde no se da ISS
+
+VSS = 5
+R = 1000
+ID = 1e-3
+VD = 0.7
+n = 1
+
+
+Ejemplo #2 - Problema donde se da ISS
+
+VSS = 1
+R = 1000
+IS = 10e-15
+VD = 0.7
+n = 1
